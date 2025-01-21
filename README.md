@@ -1,4 +1,4 @@
-## Hi there 👋
+## Корпоративное управление для целей социально-экономического развития региона: теория и практика
 
 <!--
 **dikobelev/dikobelev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
